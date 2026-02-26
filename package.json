@@ -1,0 +1,22 @@
+{
+    "name": "x-326171-pdf-template",
+    "version": "1.0.0",
+    "description": "[BUILD AGENT GENERATED]:  A drag-and-drop PDF template builder that allows users to create customizable PDF templates and fill them with data from any ServiceNow record based on template configuration",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk install",
+        "transform": "now-sdk transform",
+        "types": "now-sdk dependencies"
+    },
+    "dependencies": {
+        "react": "18.2.0",
+        "react-dom": "18.2.0"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "4.3.0",
+        "@servicenow/glide": "26.0.1",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "4.3.0"
+    }
+}

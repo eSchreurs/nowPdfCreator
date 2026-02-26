@@ -1,0 +1,6 @@
+{
+  "scope": "x_326171_pdf_templ",
+  "scopeId": "0bd38f61c3533210f4075242b4013169",
+  "name": "Pdf Template",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
